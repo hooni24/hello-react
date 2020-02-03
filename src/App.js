@@ -1,5 +1,5 @@
 import React from 'react';
-import EventPractice from './EventPractice';
+import EventPractice from './EventPracticeFunction';
 
 const App = () => {
   return <EventPractice favoriteNumber={3}>리액트</EventPractice>;
