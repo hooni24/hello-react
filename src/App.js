@@ -1,8 +1,8 @@
 import React from 'react';
-import Counter from './Counter';
+import Say from './Say';
 
 const App = () => {
-  return <Counter favoriteNumber={3}>리액트</Counter>;
+  return <Say favoriteNumber={3}>리액트</Say>;
 };
 
 export default App;
