@@ -1,8 +1,8 @@
 import React from 'react';
-import Say from './Say';
+import EventPractice from './EventPractice';
 
 const App = () => {
-  return <Say favoriteNumber={3}>리액트</Say>;
+  return <EventPractice favoriteNumber={3}>리액트</EventPractice>;
 };
 
 export default App;
